@@ -60,7 +60,7 @@ Train/Test Split: 70% training, 30% testing
 | QSVM | ~95% |
 
 
-#### Visual Outputs
+#### ~Visual Outputs:
 
 Confusion Matrices (SVM & QSVM)
 
