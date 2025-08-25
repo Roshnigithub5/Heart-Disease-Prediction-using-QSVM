@@ -55,7 +55,7 @@ Train/Test Split: 70% training, 30% testing
 ### 📊 Results
 
 | Model |	Accuracy |
-
+|-------|----------|
 | Classical SVM |	~97% |
 | QSVM | ~95% |
 
