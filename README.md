@@ -54,13 +54,13 @@ Train/Test Split: 70% training, 30% testing
 
 ### 📊 Results
 
-Model	Accuracy
+| Model |	Accuracy |
 
-Classical SVM	~97%
-QSVM	~95%
+| Classical SVM |	~97% |
+| QSVM | ~95% |
 
 
-Visual Outputs
+#### Visual Outputs
 
 Confusion Matrices (SVM & QSVM)
 
