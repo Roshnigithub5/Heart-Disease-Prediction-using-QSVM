@@ -60,7 +60,7 @@ The implementation leverages Qiskit Machine Learning for quantum kernels and sci
 | QSVM | ~95% |
 
 
-#### ~Visual Outputs:
+#### ~ Visual Outputs:
 
 - Confusion Matrices (SVM & QSVM)
 
@@ -78,4 +78,4 @@ The implementation leverages Qiskit Machine Learning for quantum kernels and sci
 
 - Experiment with advanced feature maps and hyperparameter tuning
 
-Test performance on larger and more complex healthcare datasets
+- Test performance on larger and more complex healthcare datasets
